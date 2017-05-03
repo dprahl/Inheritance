@@ -10,6 +10,8 @@ public class Main {
     }
 
     public void start() {
-        //todo
+        ATM atm = new ATM();
+        atm.activate();
     }
+
 }
